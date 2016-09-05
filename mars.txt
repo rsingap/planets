@@ -1,6 +1,6 @@
 Two moons make me very happy.
 
-I like the features of git!
+I like the feature of git!
 
 Can I make a list of features
 	* item 1
